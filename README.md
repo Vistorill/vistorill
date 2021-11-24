@@ -1,5 +1,5 @@
 
-![linguagens_2020](https://user-images.githubusercontent.com/40584107/106040546-5ff46300-60b9-11eb-913c-25a54d4ed479.jpg)
+![linguagens_2020](https://www.brasilcode.com.br/wp-content/uploads/2021/02/Melhores_Linguagens_Programacao.jpg)
 
 ### Hi there 👋
 
