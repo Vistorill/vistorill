@@ -1,5 +1,5 @@
 
-![linguagens_2020](https://aotecnologia.com.br/images/alpha/noticias/programa%C3%A7%C3%A3o.jpg)
+![linguagens_2020](https://blog.dankicode.com/wp-content/uploads/2018/08/Qual-a-Linguagem-de-Programa%C3%A7%C3%A3o-mais-usada-no-mercado-650x350.png)
 
 ### Hi there 👋
 
