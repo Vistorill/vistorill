@@ -1,5 +1,5 @@
 
-![linguagens_2020](https://blog.dankicode.com/wp-content/uploads/2018/08/Qual-a-Linguagem-de-Programa%C3%A7%C3%A3o-mais-usada-no-mercado-650x350.png)
+![linguagens_2020](https://becode.com.br/wp-content/uploads/2017/07/Primeira-Linguagem-4.png)
 
 ### Hi there 👋
 
