@@ -1,5 +1,5 @@
 
-![linguagens_2020](https://becode.com.br/wp-content/uploads/2017/07/Primeira-Linguagem-4.png)
+![linguagens_2020](https://www.brasilcode.com.br/wp-content/uploads/2021/02/Melhores_Linguagens_Programacao-1024x427.jpg)
 
 ### Hi there 👋
 
