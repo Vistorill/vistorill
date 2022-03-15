@@ -1,5 +1,5 @@
 
-![linguagens_2020](https://www.brasilcode.com.br/wp-content/uploads/2021/02/Melhores_Linguagens_Programacao-1024x427.jpg)
+![linguagens_2020](https://raw.githubusercontent.com/Vistorill/DeveloperPortifolio/main/AWERRWERWER.jpg)
 
 ### Hi there 👋
 
