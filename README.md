@@ -6,8 +6,8 @@ Vistorill/vistoril é um✨ especial ✨repositório porque seu README.md(este a
 
 Aqui estão algumas ideias para você começar:
 
-🔭Atualmente estou trabalhando em...<br>
-🌱atualmente estou aprendendo...<br>
+🔭Atualmente estou trabalhando em... Javascript<br>
+🌱atualmente estou aprendendo... Javascript<br>
 👯Procuro colaborar em...<br>
 🤔Procuro ajuda com...<br>
 💬Pergunte-me sobre ...<br>
