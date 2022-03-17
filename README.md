@@ -7,6 +7,7 @@ Vistorill/vistoril é um✨ especial ✨repositório porque seu README.md(este a
 Aqui estão algumas ideias para você começar:
 
 🔭Atualmente estou trabalhando em... Javascript<br>
+https://vistorill.github.io/CalcMediaAlunos-/index.html
 🌱atualmente estou aprendendo... Javascript<br>
 👯Procuro colaborar em...<br>
 🤔Procuro ajuda com...<br>
