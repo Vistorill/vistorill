@@ -13,7 +13,7 @@ Olá👋...<br>
 ##
 
 🔭Atualmente estou trabalhando em... Javascript ==>><br>
-🖥 Calculadora de media de Alunos ==>> https://vistorill.github.io/CalcMediaAlunos-/index.html<br>
+🖥 Calculadora de media de Alunos ==>> https://vistorill.github.io/CalcMediaAlunos-/<br>
 ➡️ Projeto Pizzas Adicionando sabores ==>> https://vistorill.github.io/ProgramaPizzas_R8Developer/<br>
 ➡️ Projeto Cronometro Simples ==>> https://vistorill.github.io/Cron-metroJavascript/<br>
 🌱 atualmente estou aprendendo... Javascript<br>
