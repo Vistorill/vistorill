@@ -23,14 +23,15 @@
 
 Olá👋
 🔭Atualmente estou trabalhando em... Javascript<br>
-➡️Calculadora de media de Alunos ==>> https://vistorill.github.io/CalcMediaAlunos-/index.html<br>
-➡️Projeto Pizzas Adicionando sabores ==>> https://vistorill.github.io/ProgramaPizzas_R8Developer/<br>
-🌱atualmente estou aprendendo... Javascript<br>
-👯Procuro colaborar em...<br>
-🤔Procuro ajuda com...<br>
-💬Pergunte-me sobre ...<br>
-📫Como chegar até mim:...<br>
-😄Pronomes:...<br>
-⚡Curiosidade: ... --><br>
+➡️ Calculadora de media de Alunos ==>> https://vistorill.github.io/CalcMediaAlunos-/index.html<br>
+➡️ Projeto Pizzas Adicionando sabores ==>> https://vistorill.github.io/ProgramaPizzas_R8Developer/<br>
+➡️ Projeto Cronometro Simples ==>> https://vistorill.github.io/Cron-metroJavascript/<br>
+🌱 atualmente estou aprendendo... Javascript<br>
+👯 Procuro colaborar em...<br>
+🤔 Procuro ajuda com...<br>
+💬 Pergunte-me sobre ...<br>
+📫 Como chegar até mim:...<br>
+😄 Pronomes:...<br>
+⚡ Curiosidade: ... --><br>
 
 
