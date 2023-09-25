@@ -35,6 +35,6 @@ Olá👋...<br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/Vistorill/pythonImg/blob/main/python-5-logo-svg-vector.svg">
-
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/a62445f587e2edc034b91492874d954178e5ade1/php-logo-svg-vector.svg">
  
 </div>
