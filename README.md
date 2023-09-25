@@ -36,7 +36,7 @@ Olá👋...<br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/Vistorill/pythonImg/blob/main/python-5-logo-svg-vector.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/main/php-logo-png-transparent.png">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/main/vue-9-logo-png-transparent.png">
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/5474575cc9223498aae0ac86faede3ad1740cdd9/2vue-js-icon.svg">
   
  
 </div>
