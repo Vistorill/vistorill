@@ -47,7 +47,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistorill&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div>
+
 <h3 align="center"> ### ✍️ Random Dev Quote </h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
