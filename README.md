@@ -48,7 +48,6 @@
 </div>
 
 <div>
-<h3 align="center"></h3>
-### ✍️ Random Dev Quote
+<h3 align="center"> ### ✍️ Random Dev Quote </h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
