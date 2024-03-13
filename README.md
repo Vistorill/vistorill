@@ -11,9 +11,9 @@
 
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">currently working and learning beginner level salesforce administration within the trailhead platform and accumulating badges and climbing the rankings for ADVENTURE</h3>
-##
 
-🔭Atualmente estou trabalhando em... Javascript ==>><br>
+
+🔭Atualmente estou trabalhando em... Javascript  & Salesforce Administrator ==>><br>
 🖥 Calculadora de media de Alunos ==>> https://vistorill.github.io/CalcMediaAlunos-/<br>
 ➡️ Projeto Pizzas Adicionando sabores ==>> https://vistorill.github.io/ProgramaPizzas_R8Developer/<br>
 ➡️ Projeto Cronometro Simples ==>> https://vistorill.github.io/Cron-metroJavascript/<br>
