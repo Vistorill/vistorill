@@ -8,7 +8,7 @@
 <h3 align="center">currently working and learning beginner level salesforce administration within the trailhead platform and accumulating badges and climbing the rankings for ADVENTURE</h3>
 
 
-🔭Atualmente estou trabalhando em... Javascript  & Salesforce Administrator ==>><br>
+<h3 align="center">🔭Atualmente estou trabalhando em... Javascript  & Salesforce Administrator ==>><br></h3>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
