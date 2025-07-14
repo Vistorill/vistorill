@@ -22,10 +22,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/Vistorill/pythonImg/blob/main/python-5-logo-svg-vector.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/main/php-logo-png-transparent.png">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/5474575cc9223498aae0ac86faede3ad1740cdd9/2vue-js-icon.svg">
-  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/Vistorill/pythonImg/blob/main/python-5-logo-svg-vector.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/main/php-logo-png-transparent.png">
+  <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/5474575cc9223498aae0ac86faede3ad1740cdd9/2vue-js-icon.svg">
+  <img align="center" alt="Rafa-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
 </div>
 ##
 
