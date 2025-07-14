@@ -25,7 +25,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/Vistorill/pythonImg/blob/main/python-5-logo-svg-vector.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/main/php-logo-png-transparent.png">
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/5474575cc9223498aae0ac86faede3ad1740cdd9/2vue-js-icon.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg">
+ <img align="center" alt="NestJS" height="30" width="40" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png">
 </div>
 ##
 
