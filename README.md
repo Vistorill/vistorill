@@ -25,6 +25,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/Vistorill/pythonImg/blob/main/python-5-logo-svg-vector.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/main/php-logo-png-transparent.png">
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/5474575cc9223498aae0ac86faede3ad1740cdd9/2vue-js-icon.svg">
+
+  <img align="center" alt="Vue" height="30" width="40" src="https://github.com/Vistorill/Products-Dashboard/blob/main/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667.svg">
  
 </div>
 ##
