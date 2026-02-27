@@ -1,45 +1,126 @@
-
-
-
-  
-##
-
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">currently working and learning beginner level salesforce administration within the trailhead platform and accumulating badges and climbing the rankings for ADVENTURE</h3>
 
-##
-<h3 align="center">🔭Atualmente estou trabalhando em... Javascript  & Salesforce Administrator ==>><br></h3>
-##
+<h3 align="center">
+💻 Full-Stack Developer in progress | 
+☁️ Salesforce Administrator (Trailhead) | 
+🚀 Building real-world projects
+</h3>
 
+---
 
+## 👨‍💻 About Me
 
-##
-  
+- 🔭 Currently working with **JavaScript, Vue.js, NestJS & Salesforce**
+- 📚 Learning and climbing ranks on **Salesforce Trailhead**
+- 🧠 Building Full-Stack applications with real backend integration
+- 💰 Interested in Financial Systems & Investment Platforms
+- 🏎️ Creating Formula 1 content & automation projects
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/Vistorill/pythonImg/blob/main/python-5-logo-svg-vector.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/main/php-logo-png-transparent.png">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/Vistorill/pythonImg/5474575cc9223498aae0ac86faede3ad1740cdd9/2vue-js-icon.svg">
+---
 
-  <img align="center" alt="Vue" height="30" width="40" src="https://github.com/Vistorill/Products-Dashboard/blob/main/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667.svg">
- 
-</div>
-##
+## 🛠️ Tech Stack
 
-
-<h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
-  <a href="https://github.com/vistorill">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vistorill&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vistorill&theme=dark&hide_border=false"<br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistorill&layout=compact&langs_count=7&theme=dark"/>
+
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
 
+---
 
-### <h3 align="center"> ✍️ Random Dev Quote </h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 Featured Projects
+
+### 📊 CRM & Support Ticket System
+- Client registration
+- Ticket creation system
+- Services list component
+- Backend API integration
+- Vue.js + Tailwind CSS + Axios
+- Responsive layout
+
+---
+
+### 🛒 Products API (Full-Stack)
+- NestJS backend
+- MariaDB + Prisma ORM
+- CRUD operations
+- Vue.js frontend
+- Responsive dashboard
+
+---
+
+### ⏰ Digital Clock
+🔗 https://vistorill.github.io/RelogioDigital/
+
+- Pure JavaScript project
+- Real-time clock logic
+- Clean UI
+
+---
+
+### 💰 Financial Management App
+- Income & expense tracking
+- Automatic calculations
+- Savings visualization
+- History page navigation
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vistorill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vistorill&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistorill&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Salesforce Journey
+
+- 🎯 Salesforce Administrator (Beginner)
+- 🏅 Trailhead Badges
+- 📈 Ranking up through ADVENTURE
+
+---
+
+## 🎥 Side Projects & Automation
+
+- 🏎️ Formula 1 YouTube Shorts automation
+- 🤖 n8n automation workflows
+- 📹 AI-generated video systems
+- 💡 Content + Tech integration
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/vistorill">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+⭐ Always building. Always evolving.
